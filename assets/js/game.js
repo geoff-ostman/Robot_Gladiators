@@ -277,7 +277,7 @@ var enemyInfo = [
     attack: randomNumber(10, 14)
   },
   {
-    name: "",
+    name: "Cat Sitting On A Roomba",
     attack: randomNumber(10, 14)
   }
 ];
